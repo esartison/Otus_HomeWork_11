@@ -18,22 +18,40 @@ VK Cloud, Timeweb Cloud, Selectel, ROSA Cloud и др.
 - Установить кол-во синхронных и асинхронным реплик
 <img width="1285" height="470" alt="image" src="https://github.com/user-attachments/assets/f2043a5c-bc30-4fbb-bd6d-2eb7177eeb47" />
 
-esartison / i2c1T723DrBo10(8f
+
+кластер создался
+<img width="1224" height="516" alt="image" src="https://github.com/user-attachments/assets/4e6259da-f46f-4e11-a437-000e5286b9b8" />
 
 
 
 
-## **(1) Выбрать одну из СУБД**
+## **(2) Убедиться что кластер находится в разных зонах доступности**
+
+Мастер 
+
+<img width="1085" height="598" alt="image" src="https://github.com/user-attachments/assets/fb87e126-53a1-4a47-a7d2-42c527e3af34" />
+
+Sync реплика
+
+<img width="1156" height="577" alt="image" src="https://github.com/user-attachments/assets/05f80414-5f9d-43b8-8c45-464686657389" />
+
+Async реплика
+
+<img width="1100" height="580" alt="image" src="https://github.com/user-attachments/assets/cebd232b-feff-453e-be0d-b4c2f05ae056" />
 
 
-## **(1) Выбрать одну из СУБД**
 
 
-## **(1) Выбрать одну из СУБД**
+## **(3) Сделать переключение**
 
+Выбираем Sync Replica в другой зоне доступности и делаем переключение
 
-## **(1) Выбрать одну из СУБД**
+<img width="1563" height="602" alt="image" src="https://github.com/user-attachments/assets/50d238b0-55ff-461f-a84f-0a124c844797" />
 
+<img width="537" height="238" alt="image" src="https://github.com/user-attachments/assets/57f33ab5-cdb4-41bb-8565-14b38573660f" />
 
+Мастер переключился
+
+<img width="537" height="238" alt="image" src="https://github.com/user-attachments/assets/5634c650-4313-4d11-8e70-e53d0c7b42eb" />
 
 
