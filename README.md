@@ -52,6 +52,7 @@ Async реплика
 
 Мастер переключился
 
-<img width="537" height="238" alt="image" src="https://github.com/user-attachments/assets/5634c650-4313-4d11-8e70-e53d0c7b42eb" />
+<img width="1253" height="531" alt="image" src="https://github.com/user-attachments/assets/41dd65cd-5b52-44b1-a9c5-20e91205134a" />
+
 
 
